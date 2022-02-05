@@ -2,4 +2,4 @@
 
 Build an twitter bot using OpenAI, Firestore and express.js.
 
-Deployed on Netlify
+Deployed on Heroku
