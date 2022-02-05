@@ -1,0 +1,26 @@
+{
+  "name": "luca-tweet-bot",
+  "version": "1.0.0",
+  "description": "A.I tweet bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashinberish/Ai-twitter-bot.git"
+  },
+  "author": "ashinberish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashinberish/Ai-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/ashinberish/Ai-twitter-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.2",
+    "openai": "^2.0.2",
+    "twitter-api-v2": "^1.10.0"
+  }
+}
